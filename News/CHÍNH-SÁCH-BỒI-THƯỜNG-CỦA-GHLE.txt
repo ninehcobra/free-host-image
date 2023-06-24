@@ -1,0 +1,644 @@
+CHÍNH SÁCH BỒI THƯỜNG CỦA GHLE
+
+![img](https://raw.githubusercontent.com/ninehcobra/free-host-image/main/News/chinhsach2.webp)
+**Chính sách bồi thường này ("Chính sách bồi thường") sẽ có giá trị pháp lý ràng buộc Khách hàng (được định nghĩa dưới đây).**
+
+---
+
+
+# I. THUẬT NGỮ
+
+“GHLE” có nghĩa là Công ty Cổ phần Dịch vụ Giao Hàng Lẹ.
+
+“**Khách hàng**” có nghĩa là cá nhân hoặc tổ chức sử dụng Dịch vụ của GHLE.
+
+“**Bưu gửi**” có nghĩa là thư, gói, kiện hàng hóa được GNH chấp nhận, vận chuyển và phát hợp pháp trong hệ thống bưu cục của GHLE.
+
+“**Đơn hàng**” có nghĩa là yêu cầu thực hiện Dịch vụ được Khách hàng thiết lập qua Hệ thống hoặc được viết tay dưới dạng Phiếu gửi/Phiếu yêu cầu Dịch vụ có đầy đủ thông tin về Bưu gửi.
+
+“**Dịch vụ**” có nghĩa là dịch vụ liên quan việc giao nhận Bưu gửi, bao gồm: chấp nhận, vận chuyển và phát Bưu gửi bằng các phương thức khác nhau từ địa điểm do Khách hàng chỉ định đến địa điểm của người nhận.
+
+“**Hệ thống**” có nghĩa là phần mềm ứng dụng được cài đặt trên thiết bị di động hoặc website mà GHLE thiết lập cho việc sử dụng Dịch vụ của Khách hàng, bao gồm tạo, quản lý, theo dõi tiến độ của Đơn hàng; thanh toán cước Dịch vụ; kiểm soát, đối chiếu dữ liệu về Bưu gửi và cước Dịch vụ.
+
+---
+
+# II. KHAI BÁO GIÁ TRỊ HÀNG HÓA
+
+Khai báo Giá trị Hàng hóa (“**Khai báo Giá trị Hàng hóa**”) được xác định theo quy định tại Mục II này sẽ là căn cứ để tính trách nhiệm bồi thường của GHLE theo quy định tại Mục III dưới đây.
+
+Cho mục đích của Chính sách bồi thường này, Giá trị Bưu gửi sẽ được xác định là giá trị được ghi/thể hiện trên hóa đơn có giá trị pháp lý mà người bán xuất cho Khách hàng cho việc mua Hàng hóa đó (“**Hóa đơn**”)**(*)**, với điều kiện là mô tả về Hàng hóa được nêu trên Hóa đơn phù hợp với mô tả mà Khách hàng tự ghi trên Đơn hàng.
+
+(***) Lưu ý**: Hóa đơn có giá trị pháp lý là:
+
+Hóa đơn giá trị gia tăng, nếu người bán là doanh nghiệp kê khai thuế giá trị gia tăng (“**GTGT**”) theo phương pháp khấu trừ; hoặc
+Hóa đơn bán hàng, nếu người bán là doanh nghiệp kê khai thuế GTGT theo phương pháp trực tiếp; hoặc
+Bộ hồ sơ kê khai hải quan, nếu Hàng hóa được nhập khẩu từ nước ngoài vào Việt Nam.
+
+# III. BỒI THƯỜNG BỞI GHLE
+
+
+###  **3.1. Trường hợp Bưu gửi bị mất, thất lạc, hư hỏng**
+
+GHLE sẽ chịu trách nhiệm bồi thường cho Khách hàng nếu Bưu gửi bị hư hỏng, mất mát hoặc thất lạc xảy ra trong quá trình GHLE cung ứng Dịch vụ gây ra do lỗi của GHLE. Trách nhiệm của GHLE chỉ giới hạn trong thiệt hại và tổn thất trực tiếp và thực tế gây ra cho hoặc liên quan đến Bưu gửi. Các loại thiệt hại hoặc tổn thất khác (bao gồm nhưng không hạn chế bởi tổn thất lợi nhuận, thu nhập, cơ hội kinh doanh) sẽ bị loại trừ.
+
+**a. Bưu gửi là thư từ, tài liệu, ấn phẩm, giấy tờ, hóa đơn, hợp đồng và các loại văn bản khác:**
+
+Trong trường hợp Bưu gửi bị hư hỏng, mất mát hoặc thất lạc, khoản tiền bồi thường GHLE sẽ trả cho Khách hàng sẽ bằng 04 (bốn) lần Cước phí của Dịch vụ đã sử dụng.
+
+**b.1. Bưu gửi là vật phẩm, hàng hóa hoặc Phiếu có giá trị quy đổi:**
+| Trường hợp| Chi tiết bồi thường |
+| --- | --- |
+| Khách hàng có khai báo giá trị hàng hóa và có đầy đủ hóa đơn | Khoản tiền bồi thường GHLE sẽ trả cho Khách hàng sẽ bằng giá trị hàng hóa mà Khách hàng đã khai báo với GHLE. Trong trường hợp Khách hàng có đầy đủ hóa đơn và có khai báo giá trị hàng hóa, khoản tiền bồi thường sẽ không vượt quá 5.000.000 VND ( Năm triệu đồng) |
+| Khách hàng không khai báo giá trị hàng hóa hoặc không cung cấp đủ hóa đơn | Đền bù tối đa 4 lần cước phí dịch vụ |
+
+
+#### **b.2. Trường hợp Bưu gửi bị hư hỏng:**
+
+Khoản tiền bồi thường sẽ phụ thuộc vào mức độ hư hỏng của Bưu gửi, cụ thể được xác định như sau:
+
+![img](https://raw.githubusercontent.com/ninehcobra/free-host-image/main/News/chinhsach1.webp)
+
+
+ **Bảng giá trị bồi thường đối với hàng hóa hư hỏng:**
+| 
+Loại hư hỏng | Mức bồi thường tối đa | 	Khoản tiền bồi thường tối đa |
+| --- | --- | --- |
+| Hàng hóa bên trong Bưu gửi còn nguyên, tuy nhiên bao bì sản phẩm/hàng hóa bị: Rách, vỡ, ướt thùng, bao, hộp đựng sản phẩm. Rách tem niêm phong của nhà sản xuất, sản phẩm còn nguyên. | 5% | Khoản tiền bồi thường mất hàng x % hư hỏng |
+| Hàng hóa bị bể vỡ, hư hại đến 50% | 50% | Khoản tiền bồi thường mất hàng x % hư hỏng |
+| Hàng hóa bị bể vỡ, hư hại trên  50% | 100% | Khoản tiền bồi thường mất hàng x % hư hỏng |
+
+**Khách hàng thừa nhận và đồng ý rằng:**
+
+(i) GHLE sẽ bồi thường cho trường hợp Bưu gửi bị hư hỏng mà không có nghĩa vụ phải truy cứu nguyên nhân của các hư hỏng đó;
+
+(ii) Mức độ hư hỏng của Bưu gửi sẽ do GHLE có toàn quyền xác minh và quyết định; (ii) Trong trường hợp Bưu gửi bị hư hỏng trên 50% thì GHLE sẽ được quyền sở hữu hàng hóa trong Bưu gửi đó. Khách hàng cam kết sẽ, đồng ý vô điều kiện và tuân theo mọi yêu cầu của GHLE, để ký kết các tài liệu cần thiết cho mục đích chuyển quyền sở hữu đối với hàng hoá đó.
+
+**b.3. Trường hợp mất, thất lạc hoặc hư hỏng một hoặc một vài sản phẩm không đi liền theo bộ trong cùng một Bưu gửi:**
+
+(i) Trường hợp xảy ra mất, thất lạc một hoặc một vài sản phẩm không đi liền theo bộ trong cùng một Bưu gửi:
+
+Khoản tiền bồi thường được xác định theo công thức sau:
+![img](https://raw.githubusercontent.com/ninehcobra/free-host-image/main/News/chinhsach3.webp)
+(ii) Trường hợp hư hỏng một hoặc một vài sản phẩm không đi liền theo bộ trong cùng một Bưu gửi:
+
+Khoản tiển bồi thường được xác đinh theo công thức sau:
+![img](https://raw.githubusercontent.com/ninehcobra/free-host-image/main/News/chinhsach4.webp)
+
+### **3.2. Trường hợp chậm trễ giao phát Bưu gửi**
+
+**a. Trễ toàn trình**
+
+Trong trường hợp Bưu gửi được phát cho Người Nhận trễ so với thời gian toàn trình thì GHLE sẽ không tính Cước phí Dịch vụ của Đơn hàng bị trễ đó. Trong trường hợp xảy ra **Sự Kiện Bất Khả Kháng**, thời gian toàn trình dự kiến có thể kéo dài thêm từ **10 (mười) đến 15 (mười lăm) ngày** kể từ ngày kết thúc Sự Kiện Bất Khả Kháng.
+
+(***) Để tránh hiểu lầm, "Sự kiện bất khả kháng" có nghĩa là bất kỳ sự cản trở, chậm trễ hoặc ngừng hoạt động nào xảy ra do dịch bệnh, bãi công, đóng cửa, tranh chấp lao động, thiên tai, chiến tranh, bạo động trong dân chúng, hỏa hoạn hay các sự cố/ tai họa khác; những thay đổi trong chính sách của cơ quan có thẩm quyền mà vượt quá khả năng kiểm soát hợp lý của một Bên khiến cho Bên đó không thể thực hiện các nghĩa vụ được theo thỏa thuận.
+
+
+#### **b. Không xử lý**
+
+Trừ trường hợp do Sự kiên bất khả kháng và/hoặc do lỗi của Khách hàng, nếu GHLE giữ Bưu gửi mà không thực hiện giao phát cho Người nhận quá 30 (ba mươi) ngày tính từ ngày Bưu gửi được GHLE nhận từ Khách hàng, hoặc không phát trả Bưu gửi cho Khách hàng hoặc thông báo cho Khách hàng lên nhận lại Bưu gửi trong thời hạn 30 (ba mươi) ngày tính từ ngày giao phát không thành công, thì GHLE sẽ bồi thường đơn hàng đó theo như chính sách bồi thường mất hàng.
+
+Quy định trên không áp dụng cho trường hợp hai bên đang có tranh chấp về Đơn hàng hoặc GHLE trả Bưu gửi nhưng Khách hàng từ chối nhận lại Bưu gửi từ 03 (ba) lần trở lên.
+
+**c. Bồi thường đối với Bưu gửi hoàn trả không thành công**
+
+Đối với Bưu gửi giao không thành công nhưng khi hoàn trả lại cho Khách hàng hoặc Người gửi không thành công mà bị thất thoát, hư hỏng: Đền bù 04 (bốn) lần Cước phí của Dịch vụ đã sử dụng đối với Đơn hàng đó.
+
+Hoàn trả Bưu gửi không thành công: được hiểu GHLE là đã liên hệ khách hàng, người gửi để hoàn trả hàng trong thời gian xử lý được phép nhưng không thể liên hệ được, hoặc đã liên hệ được nhưng khách hàng, người gửi không đến nhận lại hàng theo thỏa thuận hoặc thông báo của GHLE.
+
+
+### **3.3 Các lưu ý và quy định khác về trách nhiệm bồi thường của GHLE** 
+
+1. GHLE sẽ chỉ thanh toán khoản tiền bồi thường trực tiếp cho Khách hàng. Trong trường hợp Khách hàng ủy quyền cho người khác nhận khoản tiền bồi thường, Khách hàng cần phải cung cấp cho GHLE một thư ủy quyền hợp lệ được GHLE chấp nhận.
+
+1. Đối với Bưu gửi là Phiếu có giá trị quy đổi có thời hạn sử dụng thì Khách hàng sẽ chỉ được bồi thường nếu thời hạn sử dụng của phiếu phải còn ít nhất là 03 (ba) tháng tính từ khi GHLE nhận Bưu gửi. Khách hàng thừa nhận và đồng ý rằng Khách hàng sẽ không có quyền yêu cầu bồi thường, và GHLE sẽ không có trách nhiệm bồi thường, nếu phiếu có giá trị quy đổi bị mất hay hư hỏng không đạt điều kiện này.
+
+1. Trong mọi trường hợp mất, thất lạc hoặc hư hỏng xảy ra cho Bưu gửi, khoản tiền bồi thường sẽ không thấp hơn 04 (bốn) lần Cước phí của Dịch vụ đã sử dụng.
+
+
+1.  Khách hàng thừa nhận và đồng ý rằng nếu Khách hàng từ chối hoặc không phối hợp để thực hiện đồng kiểm Bưu gửi với GHLE thì trong trường hợp xảy ra mất mát, thất lạc, hư hỏng cho Bưu gửi, khoản tiền bồi thường GHLE phải trả cho Khách hàng sẽ chỉ bằng 04 (bốn) lần Cước phí của Dịch vụ đã sử dụng.
+
+
+1. Khách hàng thừa nhận và đồng ý rằng trong trường hợp xảy ra mất mát, thất lạc, hư hỏng cho Bưu gửi mà Khách hàng không cung cấp được Hóa đơn chứng minh Giá trị khai báo hàng hóa theo quy định tại Mục II trên đây thì khoản tiền bồi thường GHLE phải trả cho Khách hàng sẽ chỉ bằng 04 (bốn) lần Cước phí của Dịch vụ đã sử dụng.
+
+1. Khách hàng thừa nhận và đồng ý rằng trong mọi trường hợp, khoản tiền bồi thường trên đã bao gồm việc hoàn trả Cước phí Dịch vụ đã thanh toán cho GHLE.
+
+1.  Khách hàng từ bỏ và sẽ không thực hiện bất kỳ và mọi quyền, quyền yêu cầu, hành động chống lại GHLE liên quan đến tổn thất, thiệt hại gây ra cho Bưu gửi vượt quá hạn chế trách nhiệm bồi thường của GHLE như nêu tại Mục III này.
+
+---
+
+## IV. BỒI THƯỜNG BỞI KHÁCH HÀNG
+
+Khách hàng thừa nhận và đồng ý sẽ bồi thường, bảo vệ và giữ cho GHLE và cổ đông, giám đốc, người quản lý, nhân viên, nhà thầu, tư vấn của GHLE (các “Bên được bồi thường của GHLE”) không bị ảnh hưởng và tránh khỏi bất kỳ và mọi thiệt hại, tổn thất, chi phí và phí (bao gồm phí pháp lý), yêu cầu, trách nhiệm, khiếu kiện, lệnh, yêu cầu, hành động của cơ quan nhà nước có thẩm quyền, có thể được đưa ra chống lại hoặc phải gánh chịu bởi GHLE và các Bên được bồi thường của GHLE, là hậu quả của hoặc phát sinh từ hoặc có liên quan đến:
+
+1. Thiệt hại, hư hỏng, tổn thất, mất mát, hao hụt, trách nhiệm, yêu cầu, khiếu kiện liên quan đến Bưu gửi đó gây ra bởi hành động hoặc việc không thực hiện một hành động nào của Khách hàng, bao gồm nhưng không hạn chế bởi việc cung cấp, kê khai thông tin về Bưu gửi không đúng hoặc thiếu sót; đóng gói, bao bọc Bưu gửi không đầy đủ, không phù hợp, không cẩn thận, không tuân thủ quy định, hướng dẫn về đóng gói của GHLE, nhà sản xuất hay quy định của pháp luật; Thông tin Người Nhận không đúng hoặc thiếu sót; hoặc
+
+1. Bưu gửi thuộc trường hợp bị cấm gửi, chấp nhận, vận chuyển theo quy định của pháp luật; hoặc Khách hàng vi phạm quy định pháp luật.
+---
+
+
+## V. MIỄN TRỪ TRÁCH NHIỆM
+
+Khách hàng thừa nhận và đồng ý GHLE sẽ được miễn trừ trách nhiệm và sẽ vô can đối với bất kỳ và mọi thiệt hại, tổn thất, mất mát, hư hỏng, bồi thường, chậm trễ, yêu cầu, trách nhiệm, khiếu kiện, hành động của Khách hàng và/hoặc cơ quan nhà nước có thẩm quyền có thể được đưa ra chống lại hoặc phải gánh chịu bởi GHLE và các Bên được bồi thường của GHLE liên quan đến Bưu gửi được gây ra bởi, phát sinh từ, hoặc liên quan đến:
+
+* Sự không tuân thủ bởi Khách hàng bất kỳ quy định của pháp luật về hàng hóa cấm hoặc hạn chế lưu thông, vận chuyển và các quy định khác của pháp luật (bao gồm, nhưng không hạn chế bởi trường hợp Bưu gửi không có hóa đơn, chứng từ nguồn gốc xuất xứ; bị kiểm tra, tạm giữ, tịch thu hoặc tiêu hủy (dẫn đến bị mất mát, giảm khối lượng, giảm chất lượng hay hư hỏng toàn bộ hoặc một phần) theo quyết điṇh của cơ quan có thẩm quyền hoặc an ninh sân bay.
+
+* Sự không tuân thủ bởi Khách hàng bất kỳ thỏa thuận nào về sử dụng Dịch vụ của GHLE, hoặc bất kỳ quy định, chính sách nào của GHLE (bao gồm, nhưng không hạn chế bởi Bưu gửi nằm ngoài phạm vi nhận vận chuyển của GHLE, địa chỉ giao hoặc nhận Bưu gửi không thuộc phạm vi cung ứng Dịch vụ của GHLE, Bưu gửi thuộc danh mục hàng hóa không được vận chuyển qua đường hàng không; Khách hàng không thực hiện đúng các quy định về khiếu nại, giải quyết tranh chấp theo luật định hoặc theo Chính sách chăm sóc Khách hàng của GHLE);
+
+* Hành động hoặc không thực hiện hành động nào của Khách hàng, cho dù là do lỗi cẩu thả, bất cẩn, cố ý làm sai, hoặc lừa dối (bao gồm, nhưng không hạn chế bởi trường hợp việc cung cấp, kê khai thông tin về Bưu gửi không đúng hoặc thiếu sót; đóng gói, bao bọc Bưu gửi không đầy đủ, không phù hợp, không cẩn thận, không tuân thủ quy định, hướng dẫn về đóng gói của GHLE, nhà sản xuất hay quy định của pháp luật; Thông tin Người Nhận không đúng hoặc thiếu sót Khách hàng không có chứng từ chứng minh Bưu gửi bị mất hoặc hư hỏng; Khách hàng không có chứng từ chứng minh việc sử dụng Dịch vụ, Khách hàng dán sai mã đơn hàng);
+
+* Hành động hoặc không thực hiện hành động của một bên thứ ba, cho dù là do lỗi cẩu thả, bất cẩn, cố ý làm sai, hoặc lừa dối (bao gồm, nhưng không hạn chế bởi trường hợp hàng hóa bị cướp, giật; hư hỏng, mất mát gây ra bởi Người Nhận; hàng hóa không đáp ứng yêu cầu, tiêu chuẩn về chất lượng, quy cách, bao gồm nhưng không giới hạn trường hợp màu sắc, kích cỡ, chất liệu sản phẩm không đúng với hình ảnh, thông tin được cung cấp bởi người bán hàng hoặc nhà sản xuất; chuyến bay chậm trễ hoặc bị hủy; bị cơ quan chức năng kiểm tra trên đường vận chuyển);
+
+* Đặc tính tự nhiên, khuyết tật vốn có của hàng hóa nằm trong Bưu gửi;
+
+* Suy suyển, hao mòn, hư hỏng khách quan, tự nhiên diễn ra trong quá trình vận chuyển (bao gồm, nhưng không hạn chế bởi trường hợp hàng hóa bị thay đổi hình dáng, màu sắc khi nhiệt độ môi trường thay đổi, đặc điểm của hàng hóa gây ra tự cháy, biến chất, hao hụt, han gỉ, nứt vỡ, ẩm mốc…);
+
+* Khách hàng từ chối nhận lại Bưu gửi hoặc GHLE không liên hệ được với Khách hàng sau khi GHLE đã thực hiện giao trả lại Bưu gửi ít nhất 03 (ba) lần. Trong trường hợp này, Khách hàng thừa nhận và đồng ý rằng Khách hàng đã từ bỏ mọi quyền và quyền yêu cầu và GHLE sẽ được miễn trừ khỏi mọi yêu cầu, trách nhiệm, khiếu kiện liên quan đến Bưu gửi. Để tránh hiểu lầm, sau 06 (sáu) tháng kể từ lần trả cuối cùng nêu trên, GHLE sẽ được quyền sở hữu hàng hoá trong Bưu gửi đó và rằng, Khách hàng cam kết không có bất kỳ khiếu nại, khiếu kiện nào về vấn đề này.
+
+* Trong trường hợp một phần thiệt hại, tổn thất xảy ra do Khách hàng vi phạm, Khách hàng thừa nhận và đồng ý sẽ từ bỏ quyền yêu cầu đối với, và GHLE sẽ không có trách nhiệm bồi thường cho, phần thiệt hại, tổn thất tương ứng với mức độ thiệt hại do Khách hàng gây ra.
+* Bưu gửi đã được phát và Người nhận không có ý kiến khi nhận Bưu gửi.
+
+* Các trường hợp bất khả kháng theo quy định của Luật Việt Nam.
+
+* Trường hợp Khách hàng có yêu cầu bổ sung thêm thông tin ID nhân viên của GHLE (sau đây gọi chung là “ID Nhân Viên”) vào tài khoản đăng nhập để tạo đơn hàng của Khách hàng (sau đây gọi chung là “Tài Khoản Tạo Đơn Hàng”) trên Hệ thống của GHLE thì Khách hàng đồng ý rằng:
+
+* * Khách hàng sẽ miễn trừ cho GHLE toàn bộ trách nhiệm phát sinh từ hoặc liên quan đến việc khiếu kiện, khiếu nại về các hành vi được thao tác qua ID Nhân Viên liên quan đến việc tạo đơn hàng trên Hệ thống của GHLE thông qua Tài Khoản Tạo Đơn Hàng – bao gồm nhưng không giới hạn các vấn đề liên quan đến việc bảo mật thông tin của Khách hàng, các thông tin liên quan đến đơn hàng, việc tạo đơn hàng ảo…
+* * Trường hợp phát sinh bất kỳ vấn đề hoặc hành vi vi phạm pháp luật nào phát sinh từ hoặc liên quan đến ID Nhân Viên dẫn đến ảnh hưởng trực tiếp hoặc gián tiếp đến Khách hàng và/hoặc bên thứ ba thì sẽ do nhân viên đó chịu trách nhiệm trực tiếp trước pháp luật và/hoặc bên bị thiệt hại.
+* * Khách hàng sẽ chịu toàn bộ trách nhiệm liên quan đến các thao tác từ Tài Khoản Tạo Đơn Hàng trên Hệ thống, kể cả thao tác trực tiếp từ Khách hàng hay từ ID Nhân Viên – bao gồm nhưng không giới hạn việc tạo, quản lý, kiểm tra đơn hàng, các vấn đề về bảo mật liên quan đến đơn hàng… Để tránh hiểu lầm, GHLE sẽ không chịu bất kỳ trách nhiệm nào phát sinh từ hoặc liên quan đến Tài Khoản Tạo Đơn Hàng thông qua ID Nhân Viên.
+
+
+QUY ĐỊNH VỀ KHIẾU NẠI CỦA GHN
+
+
+## I. QUY ĐỊNH VỀ KHIẾU NẠI
+
+
+
+## 1.Thời hiệu khiếu nại: 
+
+Việc khiếu nại quy định tại Điều này phải được lập thành văn bản. Thời hiệu khiếu nại được quy định như sau:
+
+**Thời hiệu khiếu nại đối với dịch vụ chuyển phát Bưu gửi bằng xe máy:**
+
+* 06 (sáu) tháng, kể từ ngày kết thúc Thời gian Toàn trình của Bưu gửi đối với khiếu nại về việc mất Bưu gửi, chuyển phát Bưu gửi chậm so với Thời gian Toàn trình đã công bố.
+
+* 01 (một) tháng, kể từ ngày Bưu gửi được phát cho người nhận đối với khiếu nại về việc Bưu gửi bị suy suyển, hư hỏng, về giá cước và các nội dung khác có liên quan trực tiếp đến Bưu gửi.
+
+**Thời hiệu khiếu nại đối với dịch vụ bằng xe tải:**
+
+* 01 (một) tháng, kể từ ngày kết thúc Thời gian Toàn trình của Hàng hóa đối với khiếu nại về việc mất Hàng hóa, giao Hàng hóa chậm so với thời gian toàn trình tại bảng giá;
+
+* 48 (bốn mươi tám) giờ, kể từ ngày Hàng hóa được phát cho người nhận đối với khiếu nại về việc Hàng hóa bị suy suyển, hư hỏng, về giá cước và các nội dung khác có liên quan trực tiếp đến Hàng hóa
+
+
+## **2. Các kênh tiếp nhận khiếu nại:**
+
+a. Tất cả các vấn đề liên quan đến giao hàng, xử lý sự cố phát sinh, phải được thông báo đến Bộ phận Chăm sóc khách hàng (“CSKH”) qua một trong các kênh liên hệ sau:
+
+* Hotline: **0797260870**
+
+* Email: **giaohangle290302@gmail.com**
+
+* Website hoặc App quản lý đơn hàng
+
+b. Thời gian làm việc:
+
+* Thứ hai – Chủ nhật: 08h30 – 21h00
+
+* Ngày lễ: 09h00 – 17h00
+
+
+## 3. Các thông tin Khách hàng cung cấp cho CSKH:
+
+* Mã đơn hàng
+
+* Phiếu gửi hàng hóa
+
+* Tình trạng hàng hóa đính kèm hình ảnh (nếu có)
+
+* Biên bản làm việc hoặc đồng kiểm hàng hóa (nếu có)
+
+* Các thông tin khác về đơn hàng (nếu có).
+
+
+## 4. Điều kiện để được giải quyết khiếu nại:
+
+Người khiếu nại phải là Khách hàng trực tiếp sử dụng Dịch vụ của GHN hoặc Bên thứ ba được Khách hàng chỉ định (có Giấy ủy quyền được xác nhận bởi cơ quan có thẩm quyền). Khách hàng phải thực hiện khiếu nại theo đúng quy định tại Mục I này.
+
+---
+
+
+## II. QUY TRÌNH GIẢI QUYẾT KHIẾU NẠI
+
+
+## 1. Thời hạn giải quyết khiếu nại:
+
+a. Tất cả các vấn đề liên quan đến giao hàng, xử lý sự cố phát sinh, Khách hàng thông báo đến tổng đài chăm sóc khách hàng của Công ty qua các kênh liên hệ sau: (i) số hotline 1900 636677; (ii) Website hoặc App quản lý đơn hàng; (iii) gửi thông tin đến địa chỉ email: cskh@ghn.vn 
+
+b. Tất cả các khiếu nại sẽ được CSKH của Công ty tiếp nhận và xử lý trong vòng 02 (hai) ngày làm việc kể từ ngày nhận được khiếu nại. Đối với trường hợp phức tạp, thời gian tối đa giải quyết khiếu nại là không quá 02 (hai) tháng kể từ ngày nhận được khiếu nại theo quy định pháp luật.
+
+
+## 2. Các bước xử lý khiếu nại: 
+
+Quy trình giải quyết sự cố, khiếu nại được thực hiện căn cứ vào nguồn gốc lỗi phát sinh:
+
+ **a.Trường hợp sự cố xảy ra có nguồn gốc từ Khách hàng**: 
+
+Hàng bị hư, móp, méo, đổ, rách, không đúng quy cách, phẩm chất, chất lượng, số lượng, hạn sử dụng như cam kết với Người nhận mà bao bì, tem niêm phong vẫn còn nguyên vẹn hoặc Sự cố được phát hiện trong quá trình nhân viên GHN chứng kiến việc Người nhận kiểm tra Bưu gửi.
+
+
+#### **Bước 1: Lập Biên bản ghi nhận sự cố**
+
+Khi phát sinh sự cố, nhân viên GHN chụp hình, giữ nguyên trạng thái và tiến hành lập biên bản với Người nhận. Nội dung biên bản xảy ra sự cố thể hiện rõ: (i) Thông tin về Bưu gửi, Người gửi, Người nhận; (ii) Địa điểm, ngày, tháng, năm chấp nhận/phát Bưu gửi; (iii) Mô tả chi tiết thực trạng Bưu gửi (“Biên bản”).Nhân viên GHN sẽ bao bọc, niêm phong Bưu gửi và ký xác nhận với tư cách là người chứng kiến. Điều phối các địa điểm kinh doanh cập nhật tình trạng đơn hàng trên Hệ thống.
+#### **Bước 2: Chuyển thông tin sự cố cho CSKH**
+Ngay khi lập xong Biên bản, nhân viên GHN liên hệ ngay CSKH của GHN qua tổng đài 1900 636677, thông báo mã đơn hàng, tình trạng đơn hàng, và thực trạng hàng hóa. Nhân viên GHN giữ và gửi Bưu gửi có niêm phong cùng Biên bản về các điểm giao dịch của GHN.
+
+#### **Bước 3: Bộ phận CSKH thông báo trực tiếp tới Khách hàng**
+
+Căn cứ thông tin nhân viên GHN phản ánh, CSKH gọi điện thoại hoặc gửi email trực tiếp cho Khách hàng thông báo về sự cố và thời hạn dự kiến Bưu gửi hoàn trả lại cho Khách hàng.
+
+#### **Bước 4: GHN hoàn trả Bưu gửi cho Khách hàng**
+
+Bưu gửi có sự cố còn niêm phong từ các điểm kinh doanh của GHN được hoàn trả lại cho Khách hàng trong Thời gian Toàn trình như cam kết. 
+
+#### **b. Trường hợp sự cố xảy ra có nguồn gốc từ GHN như:**
+
+
+Bưu gửi bị mất, cướp, thất lạc, hư, móp, đổ, rách, tráo đổi so với Bưu gửi được chấp nhận mà bao bì, tem niêm phong không còn nguyên vẹn hoặc lỗi do nhân viên GHN gây ra trong quá trình luân chuyển, trong thời gian chuyển giao Bưu gửi cho Người nhận.
+
+* **Bước 1: Lập Biên bản ghi nhận sự cố**
+
+Ngay khi sự cố xảy ra, nhân viên GHN đang xử lý Bưu gửi tiến hành chụp hình, lập Biên bản ghi nhận đầy đủ thông tin liên quan đến Bưu gửi. Biên bản phải có đủ chữ ký của nhân viên đó và người quản lý trực tiếp hoặc người chứng kiến thứ 3. Bưu gửi được gói trong bao bì và niêm phong nguyên trạng. Chứng từ, Biên bản được gửi cho CSKH và Khách hàng một (01) bản.
+* **Bước 2: Chuyển thông tin cho CSKH**
+
+* CSKH cập nhật thông tin do nhân viên GHN gửi qua hoặc tiếp nhận trực tiếp từ khiếu nại của Khách hàng thông qua tổng đài.
+
+* **Bước 3: Bộ phận CSKH thông báo trực tiếp tới Khách hàng**
+
+* Căn cứ thông tin nhận được, CSKH gọi điện thoại hoặc gửi email trực tiếp cho Khách hàng thông báo sự cố, đồng thời yêu cầu Khách hàng cung cấp Thông tin chứng minh giá trị bưu gửi được quy định tại Chính sách bồi thường.
+
+* **Bước 4: GHN thẩm định và phản hồi cho khách hàng kết quả đền bù**
+
+* Sau khi nhận được đầy đủ thông tin từ khách hàng, GHN sẽ phản hồi kết quả xử lý theo thời hạn quy định tại Mục 1.2.Trường hợp khách hàng đã cung cấp đầy đủ thông tin chứng minh giá trị sản phẩm và đủ điều kiện nhận đền bù, CSKH sẽ thông báo xác nhận giá trị đền bù và thời gian GHN tiến hành chuyển khoản đền bù cho Khách hàng theo thỏa thuận hoặc email xử lý khiếu nại với Khách hàng.
+
+* **Bước 5: GHN thực hiện đền bù, bồi thường thiệt hại theo cam kết**
+
+* GHN tiến hành thực hiện đền bù bằng chuyển khoản vào tài khoản khách hàng trong vòng thời hạn không quá 15 (mười lăm) ngày làm việc, tính từ lúc GHN gửi thông báo kết quả đền bù tại Bước 4
+
+
+HÀNG HÓA GHLE KHÔNG NHẬN VẬN CHUYỂN
+
+![img](https://raw.githubusercontent.com/ninehcobra/free-host-image/main/News/hangcam.webp)
+
+---
+
+## I. HÀNG HÓA CẤM VẬN CHUYỂN, VẬN CHUYỂN CÓ ĐIỀU KIỆN THEO QUY ĐỊNH CỦA PHÁP LUẬT
+
+a. Vũ khí quân dụng, súng săn, vũ khí thô sơ, vũ khí thể thao, công cụ hỗ trợ và vũ khí khác có tính năng, tác dụng tương tự, bao gồm nhưng không giới hạn các vật phẩm như sau:
+
+* Vũ khí quận dụng: Súng ngắn, súng trường, súng tiểu liên và các loại súng quân dụng khác, bom mìn, lựu đạn, ngự lôi, thủy lôi...
+
+* Súng săn: súng kíp, súng hơi, và đạn sử dụng cho các loại súng này. Vũ khí thô sơ: dao găm, kiếm, giáo, mác, thương, lưỡi lê, mã tấu, côn, quả đấm, quả chùy, cung, nỏ, ná, phi tiêu, rựa, rìu…
+
+* Vũ khí thể thao, bao gồm:
+
+* * Súng trường hơi, súng trường bắn đạn nổ, súng ngắn hơi, súng ngắn bắn đạn nổ, súng thể thao bắn đạn sơn, súng bắn đĩa bay và đạn sử dụng cho các loại súng này.
+
+* * Vũ khí thô sơ được dùng để luyện tập, thi đấu thể thao.
+
+* * Phụ kiện chế tạo và sử dụng súng.
+
+* Công cụ hỗ trợ, bao gồm:
+
+* * Súng bắn điện, hơi ngạt, chất độc, chất gây mê, từ trường, laze, lưới, súng phóng dây mồi, súng bắn đạn nhựa, súng bắn đạn chì, nổ, cao su, hơi cay, pháo hiệu, hiệu lệnh, đánh dấu và đạn sử dụng cho các loại súng này, sản phẩm có hình dạng súng.
+
+* * Phương tiện xịt hơi cay, hơi ngạt, chất độc, chất gây mê, chất gây ngứa.
+
+* * Lựu đạn khói, lựu đạn cay, quả nổ.
+
+* * Dùi cui điện, dùi cui cao su, dùi cui kim loại, dùi cui điện hình thỏi son, roi điện, gậy sắt, đèn pin có chức năng phóng điện, móc khóa chích điện, khóa số tám, bàn chông, dây đinh gai, áo giáp, găng tay điện, găng tay bắt dao, lá chắn, mũ chống đạn, thiết bị áp chế bằng âm thanh, nấm đấm sắt.
+
+* * Động vật nghiệp vụ là động vật được huấn luyện để sử dụng cho yêu cầu bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội. Các phương tiện khác có tính năng, tác dụng tương tự như công cụ hỗ trợ.
+
+b. Trang thiết bị, kỹ thuật, khí tài, phương tiện chuyên dùng quân sự, công an, quân trang (bao gồm cả phù hiệu, cấp hiệu, quân hiệu của quân đội, công an), quân dụng cho lực lượng vũ trang; linh kiện, bộ phận, phụ tùng, vật tư và trang thiết bị đặc chủng, công nghệ chuyên dùng chế tạo chúng.
+
+c. Thuốc gây nghiện, thuốc hướng tâm thần, tiền chất dùng làm thuốc và thuốc phóng xạ (bao gồm nguyên liệu, thuốc thành phẩm đơn chất và ở dạng phối hợp).
+
+d. Các loại văn hóa phẩm thuộc diện cấm phổ biến và lưu hành hoặc đã có quyết định đình chỉ phổ biến và lưu hành tại Việt Nam, bao gồm nhưng không giới hạn: các loại văn hóa phẩm đồi trụy, phản động, mê tín dị đoan hoặc có hại tới giáo dục thẩm mỹ, nhân cách; ấn phẩm, tài liệu nhằm phá hoại trật tự công cộng chống lại Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+
+e. Pháo các loại, bao gồm nhưng không giới hạn: pháo hoa, pháo nổ, pháo bông, pháo sáng; đèn trời; các loại thiết bị gây nhiễu máy đo tốc độ phương tiện giao thông.
+
+f. Máy, thiết bị trò chơi điện tử có cài đặt chương trình trò chơi điện từ có thưởng và bàn, thiết bị trò chơi chuyên dùng cho casino.
+
+g. Thuốc thú y và nguyên liệu sản xuất thuốc thú y, thuốc bảo vệ thực vật và nguyên liệu sản xuất thuốc bảo vệ thực vật ngoài danh mục được phép sử dụng tại Việt Nam hoặc thuộc danh mục hạn chế sử dụng theo quy định tại Luật Thú y.
+
+h. Động vật, thực vật hoang dã quý hiếm và giống vật nuôi cây trồng quý hiếm (bao gồm cả vật sống và các bộ phận của chúng đã được chế biến) thuộc danh mục điều ước quốc tế mà Việt Nam là thành viên quy định và theo quy định của pháp luật hiện hành.
+
+i. Giống thủy sản hoặc thủy sản cấm khai thác, thủy sản có dư lượng chất độc hại vượt quá giới hạn cho phép, thủy sản có độc tố tự nhiên gây nguy hiểm đến tính mạng con người
+
+j. Phân bón không có trong danh mục được phép sản xuất, kinh doanh, lưu hành và sử dụng tại Việt Nam.
+
+k. Giống cây trồng, vật nuôi không có trong danh mục được phép sản xuất, kinh doanh; giống cây trồng, vật nuôi gây hại đến sản xuất và sức khỏe con người, môi trường, hệ sinh thái.
+
+l. Khoáng sản đặc biệt, độc hại.
+
+m. Phế liệu nhập khẩu gây ô nhiễm môi trường.
+
+n. Các loại thuốc chữa bệnh cho người, các loại vắc xin, sinh phẩm y tế, mỹ phẩm, hóa chất và chế phẩm diệt côn trùng, diệt khuẩn trong lĩnh vực gia dụng và y tế chưa được phép sử dụng tại Việt Nam.
+
+o. Các loại trang thiết bị y tế chưa được phép sử dụng tại Việt Nam.
+
+p. Phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, vi chất dinh dưỡng, thực phẩm chức năng, thực phẩm có nguy cơ cao, thực phẩm được bảo quản bằng phương pháp chiếu xạ, thực phẩm có gen đã bị biến đổi chưa được cơ quan nhà nước có thẩm quyền cho phép.
+
+q. Sản phẩm, vật liệu có chứa amiăng thuộc nhóm amfibole.
+
+r. Vật hoặc chất dễ nổ, dễ cháy và hóa chất độc hại hoặc làm mất vệ sinh, gây ô nhiễm môi trường.
+
+s. Tiền Việt Nam, tiền nước ngoài và các giấy tờ có giá trị như tiền.
+
+t. Các loại kim khí quý (vàng, bạc, bạch kim…), các loại đá quí hay các sản phẩm khác được chế biến từ kim khí quí, đá quí.
+
+u. Nguyên liệu thuốc lá, sản phẩm thuốc lá (kể cả thuốc lá điện tử), giấy vấn điếu thuốc lá; máy móc, thiết bị chuyên ngành sản xuất thuốc lá và phụ tùng thay thế.
+
+v. Hàng hóa có chứa chất phóng xạ, thiết bị bức xạ hoặc nguồn phóng xạ.
+
+w. Di vật, cổ vật, bảo vật quốc gia thuộc sở hữu Nhà nước, sở hữu của tổ chức chính trị, tổ chức chính trị xã hội. Di vật, cổ vật không thuộc sở hữu nhà nước, sở hữu của tổ chức chính trị, tổ chức chính trị - xã hội.
+
+x. Các sản phẩm mật mã sử dụng để bảo vệ thông tin bí mật Nhà nước.
+
+y. Các vật phẩm, hàng hóa khác mà pháp luật của Việt Nam quy định cấm lưu thông, xuất khẩu, nhập khẩu, cấm vận chuyển bằng đường bưu chính theo quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên tại từng thời điểm.
+
+
+## II. HÀNG HÓA NGOÀI PHẠM VI CUNG ỨNG DỊCH VỤ CỦA GHN
+
+a. Sinh vật sống; trái cây, hàng tươi sống.
+
+b. Phụ gia thực phẩm.
+
+c. Hàng đông lạnh.
+
+d. Đồ ăn, thức uống.
+
+e. Khí đốt các loại (bao gồm cả hoạt động chiết nạp).
+
+f. Xăng, dầu, nhớt các loại.
+
+g. Thực phẩm thuộc Danh mục thực phẩm có nguy cơ cao.
+
+h. Phim, băng, đĩa hình (bao gồm cả hoạt động in, sao chép).
+
+i. Đèn pin siêu sáng.
+
+j. Thực phẩm dễ hư hỏng và/hoặc còn thời hạn sử dụng tối đa 03 (ba) tháng tính đến thời điểm gửi hàng.   
+
+k. Thực phẩm có dạng lỏng, hoặc chứa chất lỏng.
+
+l. Thực phẩm có khả năng tạo mùi ảnh hưởng đến việc lưu kho hàng hóa (ví dụ như cá khô, các loại mắm, nước mắm…).
+
+m. Mực in, ô tô, xe máy, sơn, một số loại bột hóa chất và bột các loại, hương liệu, một số mặt hàng có từ trường...
+
+n. Đồ chơi nguy hiểm, đồ chơi có hại tới giáo dục nhân cách và sức khỏe của trẻ em hoặc tới an ninh, trật tự, an toàn xã hội (bao gồm cả các chương trình trò chơi điện tử). Ví dụ: súng hơi, súng lò xo…
+
+o. Rượu, bia các loại.
+
+p. Máy kích cá và/hoặc các phương tiện khai thác khác có tính chất huỷ diệt, tận diệt.
+
+q. Các vật phẩm là bùa, ngải, chú, lộc…
+
+
+## III. HÀNG HÓA CẤM VẬN CHUYỂN BẰNG ĐƯỜNG HÀNG KHÔNG
+
+a. Tất cả các loại vật phẩm quy định tại Mục I và II Danh mục này.
+
+b. Sản phẩm có chứa các chất, hoặc hỗn hợp có khả năng gây nổ, gây cháy, bao gồm nhưng không giới hạn các chất sau:
+
+* Chất khí dễ cháy (như bình gas, hộp quẹt gas/bật lửa/zippo các loại (không phân biệt có xăng hay không có xăng)…), chất khí không cháy, không độc (như bình oxy để thở, chất khí độc…) và bình chứa đối với các loại khí này.
+
+* Chất lỏng dễ cháy: như sơn, xăng, dầu, cồn, rượu (có độ cồn cao), keo, nước hoa, tinh dầu tràm...
+
+* Chất rắn dễ cháy: Các loại bột kim loại, gây cháy khi có tác động của thay đổi nhiệt độ.
+
+* Chất có khả năng tự bốc cháy: như phốt pho trắng…
+
+* Chất phản ứng khi tiếp xúc với nước toả ra khí dễ cháy.
+
+* Chất oxy hóa, chất hữu cơ có chứa oxy.
+
+* Chất độc và các chất có khả năng lây nhiễm: các loại thuốc trừ sâu, các loại virus gây bệnh với con người hay động vật, như bệnh tai xanh ở lợn, virus H5N1 ở gia cầm, virus viêm gan B ở người, các loại bệnh phẩm ở người và động vật cần xét nghiệm ở các phòng thí nghiệm, chất phóng xạ….
+
+* Chất ăn mòn, bao gồm axit, ắc quy, pin…
+
+c. Các mặt hàng thuộc nhóm khác:
+
+* Sạc dự phòng, điện thoại, máy tính bảng… hoặc các thiết bị điện tử có kèm pin.
+
+* Kim loại (khối lượng trên 200g).
+
+* Các loại gel (kem dưỡng, mỹ phẩm) có thể tích trên 50ml.
+
+* Chất lỏng: nước các loại – thể tích trên 500ml.
+
+* Phụ tùng/phụ kiên xe (xe hơi, xe mô tô, xe đạp…).
+
+* Nam châm hoặc các vật liệu có chứa từ tính.
+
+d. Các sản phẩm khác thuộc danh mục Hàng hóa cấm vận chuyển bằng đường hàng không theo chính sách của đơn vị cung cấp dịch vụ vận chuyển đường hàng không hoặc theo quy định của Nhà nước tùy vào từng thời điểm.
+
+**Lưu ý:**
+
+* Trường hợp nghi ngờ/phát hiện trong gói, kiện của Khách hàng có chứa hàng hóa thuộc danh mục nêu trên, Khách hàng thừa nhận và cho phép GHN, dù là trước, trong hay sau quá trình nhận hàng và vận chuyển, được quyền kiểm tra, xử lý Bưu gửi và/hoặc từ chối cung ứng Dịch vụ và/hoặc ngay lập tức, trong phạm vi và khả năng cho phép, trình báo sự việc và cung cấp thông tin tới cơ quan có thẩm quyền và rằng, sự không tuân thủ bởi Khách hàng đối với bất kỳ quy định của pháp luật và/hoặc chính sách GHN về hàng hoá cấm vận chuyển hoặc hạn chế lưu thông sẽ cấu thành toàn bộ trách nhiệm của Khách hàng và GHN sẽ được miễn trừ toàn bộ trách nhiệm và sẽ vô can đối với bất kỳ và mọi thiệt hại, tổn thất, mất mát, hư hỏng phát sinh từ và/hoặc liên quan đến hành động không tuân thủ của Khách hàng nêu trên.
+
+* Đối với các bưu gửi thuộc Danh mục hàng hóa cấm vận chuyển bằng đường hàng không theo quy định tại Mục này nhưng không nằm trong Mục I và Mục II, Khách hàng nên sử dụng gói cước chuẩn để Bưu gửi được vận chuyển bằng đường bộ. Trong trường hợp Khách hàng vẫn chấp nhận gửi hàng bằng đường Hàng không hoặc gói Nhanh gây ra việc trễ toàn trình hoặc Hàng hóa bị cơ quan chức năng tịch thu thì GHN sẽ được miễn trừ trách nhiệm pháp lý và không hỗ trợ đền bù (nếu có)./.
+
+
+CHÍNH SÁCH BẢO MẬT
+
+**Chính Sách Bảo Mật này (“Chính Sách“) mô tả cách thức Công ty cổ phần dịch vụ Giao Hàng Nhanh sử dụng Thông Tin Cá Nhân (được định nghĩa sau đây) của người sử dụng.**
+
+
+# I. THU THẬP THÔNG TIN CÁ NHÂN
+
+“**Thông Tin Cá Nhân**” là thông tin về bạn và có tính nhận dạng, bao gồm nhưng không giới hạn tên, quốc tịch, địa chỉ, số điện thoại, số fax, thông tin ngân hàng, thông tin thẻ tín dụng, giới tính, tình trạng cư trú tình trạng tài chính, sở thích cá nhân, địa chỉ thư điện tử (email) của bạn, nghề nghiệp, hình ảnh và bất kỳ thông tin nào về bạn mà bạn đã cung cấp cho Công ty cổ phần dịch vụ Giao Hàng Nhanh trong các đơn đăng ký, mẫu đăng ký sử dụng dịch vụ hoặc bất kỳ tài liệu tương tự nào và/hoặc bất kỳ thông tin nào về bạn đã được hoặc sẽ được Công ty cổ phần dịch vụ Giao Hàng Nhanh thu thập, lưu trữ, sử dụng và/hoặc xử lý tại từng thời điểm và bao gồm các thông tin cá nhân nhạy cảm như chứng minh nhân dân, số giấy phép lái xe, số giấy khai sinh, số hộ chiếu, dân tộc, màu da, ngày sinh, và các thông tin liên quan đến sức khỏe, tôn giáo và các đức tin tương tự khác.
+
+Việc cung cấp Thông Tin Cá Nhân của bạn là hoàn toàn tự nguyện. Tuy nhiên, nếu bạn không cung cấp Thông Tin Cá Nhân cho Công ty cổ phần dịch vụ Giao Hàng Nhanh, Công ty cổ phần dịch vụ Giao Hàng Nhanh sẽ không thể xử lý Thông Tin Cá Nhân của bạn vì các Mục Đích và Mục Đích Bổ Sung như được quy định dưới đây và có thể dẫn đến việc Công ty cổ phần dịch vụ Giao Hàng Nhanh không thể cung cấp các sản phẩm hoặc dịch vụ cho bạn hoặc không thể chấp nhận thanh toán do bạn thực hiện.
+
+Nếu bạn là một đại lý, người bán hàng, việc cung cấp Thông Tin Cá Nhân của bạn là bắt buộc, và việc không cung cấp Thông Tin Cá Nhân của bạn có thể xem là hành vi vi phạm pháp luật hoặc quy định pháp luật, và có thể dẫn đến việc Công ty cổ phần dịch vụ Giao Hàng Nhanh không thể hợp tác với bạn để cung cấp các dịch vụ hoặc sản phẩm hoặc tiến hành thanh toán cho. Bên cạnh những Thông Tin Cá Nhân bạn trực tiếp cung cấp cho Công ty cổ phần dịch vụ Giao Hàng Nhanh, Công ty cổ phần dịch vụ Giao Hàng Nhanh có thể thu thập Thông Tin Cá Nhân của bạn từ các nguồn thông tin đại chúng hoặc từ các bên thứ ba, chẳng hạn:
+
+* từ các mẫu đơn đăng ký hoặc đề nghị sử dụng hoặc các tài liệu tương tự khác;
+* các nguồn thông tin đại chúng khác như danh bạ;
+* từ các trang mạng xã hội của Công ty cổ phần dịch vụ Giao Hàng Nhanh mà bạn theo dõi, yêu thích hoặc là fan của các trang đó;
+* từ các tổ chức cung cấp thông tin tín dụng, bên cung cấp bảo hiểm, hoặc tổ chức cung cấp dịch vụ tín dụng;
+* thông qua việc bạn liên lạc, trao đổi với Công ty cổ phần dịch vụ Giao Hàng Nhanh tại bất kỳ sự kiện hay hoạt động nào;
+* thông qua việc bạn tham gia các cuộc thi do Công ty cổ phần dịch vụ Giao Hàng Nhanh tổ chức;
+* từ các tổ chức hoặc đơn vị khác nhau thuộc Công ty cổ phần dịch vụ Giao Hàng Nhanh;
+* từ các tổ chức cung cấp dịch vụ cho bạn hoặc có mối quan hệ hợp đồng với bạn;
+* từ các nhà cung cấp dịch vụ tiếp thị (marketing) hoặc đối tác tiếp thị (marketing); hoặc
+* từ việc sử dụng các ứng dụng, trang web của Công ty cổ phần dịch vụ Giao Hàng Nhanh, bao gồm tất cả các ứng dụng, trang web do Công ty cổ phần dịch vụ Giao Hàng Nhanh điều hành và mang nhãn hiệu tương ứng (các “**Ứng Dụng**” và “**Trang Web**”).
+
+#### Thông Tin Cá Nhân của bạn cũng có thể được thu thập từ các cookies được sử dụng trên các Trang Web và trong trường hợp bạn là một nhà cung cấp dịch vụ, Thông Tin Cá Nhân của bạn còn có thể được thu thập từ dữ liệu hộp đen, dữ liệu GPS và khi ứng dụng GHN của bạn đang hoạt động.
+
+---
+
+
+# II. MỤC ĐÍCH THU THẬP XỬ LÝ THÔNG TIN
+
+Công ty cổ phần dịch vụ Giao Hàng Nhanh có thể sử dụng và xử lý Thông Tin Cá Nhân của bạn vì mục đích kinh doanh, vận chuyển, giao hàng và giao nhận hàng hóa (logistics), hoạt động thanh toán và các hoạt động khác của Công ty cổ phần dịch vụ Giao Hàng Nhanh mà có thể bao gồm, không giới hạn bởi các mục đích sau đây (“**Mục Đích**”):
+
+Trong trường hợp bạn là một khách hàng sử dụng dịch vụ của Công ty cổ phần dịch vụ Giao Hàng Nhanh:
+
+* nhằm thực hiện các nghĩa vụ của Công ty cổ phần dịch vụ Giao Hàng Nhanh theo bất kỳ thỏa thuận nào được ký kết với bạn;
+* nhằm cung cấp bất kỳ dịch vụ nào theo yêu cầu của bạn;
+* nhằm xử lý việc cài đặt và đăng ký của bạn và cung cấp các dịch vụ cho bạn;
+* khi bạn yêu cầu tải xuống và sử dụng ứng dụng GHN hoặc bất kỳ ứng dụng nào khác của Công ty cổ phần dịch vụ Giao Hàng Nhanh, nhằm xử lý yêu cầu của bạn, cung cấp Ứng Dụng cho bạn và cho phép bạn sử dụng Ứng Dụng.
+* nhằm xử lý và quản lý điểm tích lũy của bạn trong chương trình khách hàng thân thiết;
+* nhằm xử lý việc tham gia của bạn vào bất kỳ sự kiện, hoạt động, nhóm trọng điểm, nghiên cứu, cuộc thi, chương trình khuyến mại, cuộc bình chọn, khảo sát hoặc sản phẩm nào;
+* nhằm xử lý, quản lý hoặc xác minh việc đăng ký sử dụng của bạn đối với các sản phẩm, dịch vụ của Công ty cổ phần dịch vụ Giao Hàng Nhanh và nhằm cung cấp cho bạn các lợi ích dành cho người đăng ký;
+* nhằm xác nhận các đặt chỗ của bạn và xử lý các thanh toán liên quan đến bất kỳ sản phẩm hay dịch vụ nào mà bạn yêu cầu;
+* nhằm tìm hiểu và phân tích doanh số của chúng tôi cũng như các nhu cầu và sở thích của bạn;
+* nhằm phát triển, cải thiện và cung cấp các sản phẩm và dịch vụ đáp ứng nhu cầu của bạn;
+* nhằm xử lý việc đổi, trả hàng hóa; và
+* nhằm sử dụng Cookies để xải thiện các quy trình, hoạt động quảng cáo, thông báo, xác minh, an toàn và tuân thủ, phân tích và quản lý nhu cầu khách hàng của chúng tôi.
+
+#### Mục đích chung:
+
+
+* nhằm trả lời các câu hỏi, bình luận và phản hồi của bạn;
+* nhằm liên lạc với bạn về bất kỳ mục đích nào được liệt kê tại Chính Sách này;
+* nhằm phục vụ mục đích quản lý nội bộ như kiểm toán, phân tích dữ liệu, lưu trữ cơ sở dữ liệu;
+* nhằm phục vụ mục đích phát hiện, ngăn chặn và truy tố tội phạm;
+để duy trì sự an toàn và đảm bảo an ninh cho các dịch vụ của chúng tôi; và
+* nhằm giúp Công ty cổ phần dịch vụ Giao Hàng Nhanh tuân thủ các nghĩa vụ theo quy định của pháp luật
+
+#### và Bạn đồng ý và cho phép Công ty cổ phần dịch vụ Giao Hàng Nhanh sử dụng và xử lý Thông Tin Cá Nhân của bạn vì các Mục Đích và theo cách thức được quy định trong Chính Sách này.
+
+---
+
+
+# III. MỤC ĐÍCH TIẾP THỊ VÀ QUẢNG CÁO
+
+Công ty cổ phần dịch vụ Giao Hàng Nhanh cũng sử dụng và xử lý thông tin của bạn vì các mục đích khác như sau (“**Mục Đích Bổ Sung**”):
+
+* gửi cho bạn các cảnh báo, bản tin, cập nhật, bưu phẩm, tài liệu quảng cáo, đặc quyền, lời chúc mừng trong các dịp đặc biệt từ Công ty cổ phần dịch vụ Giao Hàng Nhanh, các đối tác, nhà tài trợ và nhà quảng cáo của Công ty;
+* thông báo và gửi cho bạn lời mời tham dự các sự kiện hoặc hoạt động do Công ty cổ phần dịch vụ Giao Hàng Nhanh, đối tác, nhà tài trợ hoặc nhà quảng cáo của Công ty tổ chức;
+* xử lý việc đăng ký tham gia của bạn vào các sự kiện hoặc hoạt động và để liên lạc với bạn về việc tham gia của bạn tại sự kiện hoặc hoạt động đó;
+* chia sẻ Thông Tin Cá Nhân của bạn giữa các công ty con, công ty liên kết và liên doanh cũng như các đại lý, người bán hàng, nhà cung cấp dịch vụ, đối tác, nhà thầu, những bên có thể liên lạc với bạn để tiếp thị về sản phẩm, dịch vụ, sự kiện hoặc khuyến mại của họ;
+
+#### theo hình thức gửi thư bằng đường bưu điện, điện thoại, tin nhắn (SMS), dịch vụ nhắn tin trực tuyến, bằng thư tay và/hoặc email.
+
+---
+
+
+# IV. CHUYỂN GIAO THÔNG TIN CÁ NHÂN
+
+Thông Tin Cá Nhân của bạn có thể được chuyển giao tới, lưu trữ, sử dụng và xử lý tại một quốc gia không phải quốc gia của bạn, hoặc cách khác, tại một quốc gia, bang, thành phố mà bạn hiện diện tại đó khi sử dụng bất kỳ dịch vụ nào do Công ty cổ phần dịch vụ Giao Hàng Nhanh cung cấp (“**Quốc Gia Thay Thế**”), cho các công ty thuộc Công ty cổ phần dịch vụ Giao Hàng Nhanh nằm ngoài quốc gia của bạn hoặc Quốc Gia Thay Thế và/hoặc khi các máy chủ của Công ty cổ phần dịch vụ Giao Hàng Nhanh và/hoặc bên cung cấp dịch vụ và đối tác của Công ty cổ phần dịch vụ Giao Hàng Nhanh được đặt ngoài quốc gia của bạn hoặc Quốc Gia Thay Thế. Bạn hiểu và đồng ý rằng việc chuyển giao Thông tin của bạn ra khỏi quốc gia của bạn hoặc Quốc Gia Thay Thế theo quy định tại Chính Sách này.
+
+---
+
+# V. TIẾT LỘ CHO BÊN THỨ BA
+
+Thông Tin Cá Nhân của bạn có thể được chuyển giao, truy cập bởi hoặc tiết lộ cho bên thứ ba để phục vụ các Mục Đích và Mục Đích Bổ Sung. Ngoài ra, Công ty cổ phần dịch vụ Giao Hàng Nhanh có thể hợp tác với các công ty, bên cung cấp dịch vụ hoặc cá nhân khác nhằm thực hiện các công việc cần thiết nhân danh Công ty cổ phần dịch vụ Giao Hàng Nhanh, và do vậy việc này có thể cung cấp quyền tiếp cận hoặc tiết lộ Thông Tin Cá Nhân của bạn cho các nhà cung cấp dịch vụ hoặc bên thứ ba đó. Bên thứ ba bao gồm, nhưng không giới hạn:
+
+* Các đối tác của Công ty cổ phần dịch vụ Giao Hàng Nhanh, bao gồm các bên Công ty cổ phần dịch vụ Giao Hàng Nhanh cộng tác trong các sự kiện, chương trình và hoạt động nhất định;
+* Bên cung cấp dịch vụ quảng cáo;
+* Các công ty tổ chức sự kiện và nhà tài trợ sự kiện;
+* Các công ty nghiên cứu thị trường;
+* Các bên cung cấp dịch vụ, bao gồm, các nhà cung cấp dịch vụ công nghệ thông tin (CNTT) về cơ sở hạ tầng, phần mềm và công tác phát triển;
+* Các cố vấn chuyên môn và kiểm toán viên bên ngoài, bao gồm cố vấn pháp lý, cố vấn tài chính và chuyên gia tư vấn;
+* Các tổ chức khác trong Công ty cổ phần dịch vụ Giao Hàng Nhanh; và
+* Các cơ quan nhà nước để tuân thủ các quy định của pháp luật và yêu cầu của cơ quan nhà nước.
+
+#### Thông Tin Cá Nhân cũng có thể được chia sẻ liên quan đến giao dịch doanh nghiệp, chẳng hạn như thành lập liên doanh, bán công ty con hoặc bộ phận kinh doanh, sáp nhập, hợp nhất, hoặc bán tài sản, hoặc trong trường hợp khó có thể xảy ra là giải thể doanh nghiệp.
+
+
+
+
+# VI. PHƯƠNG THỨC VÀ CÔNG CỤ TIẾP CẬN VÀ CHỈNH SỬA THÔNG TIN CÁ NHÂN
+
+Tùy thuộc vào bất kỳ ngoại lệ nào theo pháp luật hiện hành của quốc gia của bạn hoặc Quốc Gia Thay thế, bạn có thể yêu cầu quyền truy cập và/hoặc yêu cầu đính chính Thông Tin Cá Nhân, yêu cầu hạn chế việc xử lý Thông Tin Cá Nhân của bạn cho các Mục Đích Bổ Sung và/hoặc đưa ra bất kỳ thắc mắc nào liên quan đến Thông Tin Cá Nhân của bạn bằng cách liên hệ tới:
+
+**Công Ty Cổ Phần Dịch Vụ Giao Hàng Lẹ**
+
+**Hẻm 224, ấp 3, xã An Phước, huyện Long Thành, tình Đồng Nai, Việt Nam,**
+
+**SDT: 0797260870**
+
+Phụ thuộc vào pháp luật tại quốc gia của bạn hoặc Quốc Gia Thay Thế, Công ty cổ phần dịch vụ Giao Hàng Nhanh có quyền áp dụng một mức phí cho việc truy cập Thông Tin Cá Nhân của bạn trong mức cho phép. Đối với quyền truy cập và/hoặc đính chính Thông Tin Cá Nhân của bạn, Công ty cổ phần dịch vụ Giao Hàng Nhanh có quyền từ chối các yêu cầu truy cập và/hoặc đính chính Thông Tin Cá Nhân của bạn vì các lý do được pháp luật cho phép, chẳng hạn như trong trường hợp chi phí cấp quyền truy cập cho bạn không tương xứng với những rủi ro đối với quyền riêng tư của bạn hoặc của người khác.
+
+---
+
+# VII. COOKIES
+
+Công ty cổ phần dịch vụ Giao Hàng Nhanh và các bên thứ ba mà Công ty cổ phần dịch vụ Giao Hàng Nhanh hợp tác, có thể sẽ sử dụng cookies, web beacon, web tag, 3web script, các dữ liệu chia sẻ như HTML5 và Flash (còn có thể được gọi là “flash cookies”), công cụ định danh quảng cáo (bao gồm công cụ định danh di động như Apple’s IDFA hoặc Google Advertising ID) và các công nghệ tương tự (theo đây được gọi chung là “Cookies”) có liên quan đến việc sử dụng các Trang Web và Ứng Dụng của bạn. Cookies có thể chứa đựng các công cụ định danh độc nhất và trú tại, ngoài các nơi khác, máy tính hoặc thiết bị di động của bạn, trong email mà chúng tôi gửi cho bạn, và trên các trang web của chúng tôi. Cookies có thể truyền tải thông tin về bạn và việc sử dụng Dịch Vụ của bạn, chẳng hạn như loại trình duyệt web của bạn, tìm kiếm yêu thích, địa chỉ IP, dữ liệu có liên quan đến quảng cáo mà được trình chiếu cho bạn hoặc được bạn bấm vào, và ngày giờ sử dụng của bạn. Cookies có thể được lưu trữ trong từng phần cụ thể.
+
+Công ty cổ phần dịch vụ Giao Hàng Nhanh có thể cho phép các bên thứ ba sử dụng Cookies trên các Trang Web và Ứng Dụng để thu thập các thông tin cùng loại vì cùng các mục đích mà Công ty cổ phần dịch vụ Giao Hàng Nhanh tự thực hiện. Các bên thứ ba sẽ có thể liên kết các thông tin mà họ thu thập được với các thông tin khác mà họ đã có về bạn từ các nguồn thông tin khác. Chúng tôi không nhất thiết phải truy cập hoặc kiểm soát các Cookies mà họ sử dụng.
+
+Ngoài ra, chúng tôi sẽ có thể chia sẻ thông tin không cá nhân từ hoặc về bạn với cá bên thứ ba, chẳng hạn như dữ liệu định vị, chỉ dẫn quảng cáo hoặc một dữ liệu giải mã từ một chỉ dẫn tài khoản (chẳng hạn như địa chỉ email), để phục vụ cho việc thể hiện các quảng cáo mục tiêu.
+
+Trong trường hợp bạn không muốn Thông Tin Cá Nhận của bạn được thu thập qua cookies trên Trang Web, bạn có thể tắt cookies bằng cách điều chỉnh cài đặt trình duyệt internet của bạn để vô hiệu hóa, khóa hoặc tắt cookies, bằng cách xóa lịch sử truy cập của bạn hoặc xóa bộ nhớ cache khỏi trình duyệt internet của bạn.
+
+---
+
+# VIII. LIÊN KẾT VỚI TRANG WEB THỨ BA
+
+Các Trang Web có thể chứa các liên kết tới các trang web của các bên thứ ba. Xin vui lòng lưu ý rằng Công ty cổ phần dịch vụ Giao Hàng Nhanh không chịu trách nhiệm đối với việc thu thập, sử dụng, duy trì, chia sẻ, hoặc tiết lộ dữ liệu và thông tin của các bên thứ ba đó. Nếu bạn trực tiếp cung cấp thông tin cho những trang đó, chính sách bảo mật và điều khoản sử dụng của những trang đó sẽ được áp dụng và Công ty cổ phần dịch vụ Giao Hàng Nhanh không chịu trách nhiệm đối với các hoạt động xử lý thông tin hoặc các chính sách bảo mật của những trang đó.
+
+---
+
+# IX. THÔNG TIN CÁ NHÂN CỦA TRẺ CHƯA THÀNH NIÊN VÀ CÁ NHÂN KHÁC
+
+Nếu bạn là một bậc cha mẹ hoặc người giám hộ, xin vui lòng không cho phép trẻ chưa thành niên (người dưới 18 (mười tám) tuổi) dưới sự giám hộ của bạn gửi Thông Tin Cá Nhân tới Công ty cổ phần dịch vụ Giao Hàng Nhanh. Trong trường hợp Thông Tin Cá Nhân như vậy được cung cấp cho Công ty cổ phần dịch vụ Giao Hàng Nhanh, bằng cách này bạn chấp thuận cho việc xử lý Thông Tin Cá Nhân của trẻ chưa thành niên và cá nhân bạn chấp nhận và đồng ý ràng buộc bởi Chính Sách này và chịu trách nhiệm đối với các hành động của trẻ.
+
+Trong một số trường hợp bạn có thể đã cung cấp Thông Tin Cá Nhân liên quan đến cá nhân khác (ví dụ như vợ/chồng, các thành viên trong gia đình hoặc bạn bè của bạn) và trong những trường hợp đó bạn thay mặt và đảm bảo rằng bạn được ủy quyền cung cấp Thông Tin Cá Nhân của họ cho Công ty cổ phần dịch vụ Giao Hàng Nhanh và bạn đã có sự chấp thuận của họ về việc Thông Tin Cá Nhân của họ được xử lý và sử dụng theo cách thức như đã nêu trong Chính Sách này.
+
+---
+
+# X. ĐỒNG Ý VÀ CHẤP THUẬN
+
+Đồng Ý và Chấp Thuận Bằng cách liên lạc với Công ty cổ phần dịch vụ Giao Hàng Nhanh, sử dụng các dịch vụ của Công ty cổ phần dịch vụ Giao Hàng Nhanh, mua các sản phẩm từ Công ty cổ phần dịch vụ Giao Hàng Nhanh hoặc thông qua việc hợp tác với Công ty cổ phần dịch vụ Giao Hàng Nhanh, bạn đồng ý rằng bạn đã đọc và hiểu Chính Sách này và đồng ý và chấp thuận việc Công ty cổ phần dịch vụ Giao Hàng Nhanh sử dụng, xử lý và chuyển giao Thông Tin Cá Nhân của bạn theo quy định tại Chính Sách này.
+
+Công ty cổ phần dịch vụ Giao Hàng Nhanh có quyền chỉnh sửa, cập nhật hoặc sửa đổi các điều khoản của Chính Sách này bất cứ lúc nào bằng cách công bố Chính Sách cập nhật trên các Trang Web và/hoặc Ứng Dụng. Bằng cách tiếp tục liên lạc với Công ty cổ phần dịch vụ Giao Hàng Nhanh, tiếp tục sử dụng các dịch vụ của Công ty cổ phần dịch vụ Giao Hàng Nhanh, tiếp tục mua các sản phẩm từ Công ty cổ phần dịch vụ Giao Hàng Nhanh hoặc thông qua việc tiếp tục hợp tác với Công ty cổ phần dịch vụ Giao Hàng Nhanh sau khi Chính Sách này được chỉnh sửa, cập nhật hoặc sửa đổi, những hành động như vậy có nghĩa là bạn đã đồng ý với những chỉnh sửa, cập nhật hoặc sửa đổi đó.
+
+Trong trường hợp có mâu thuẫn giữa bản tiếng Anh và tiếng Việt của chính sách này, bản tiếng Việt được ưu tiên áp dụng.
+
+ĐIỀU KHOẢN SỬ DỤNG
+
+**Bằng việc chấp nhận sử dụng Dịch vụ của Công ty Cổ phần Dịch vụ Giao Hàng Nhanh, Khách hàng hiểu và đồng ý với chính sách về Quyền và nghĩa vụ được nêu dưới đây.**
+
+
+# I. THUẬT NGỮ
+
+“**GHN**” có nghĩa là Công ty Cổ phần Dịch vụ Giao Hàng Nhanh.
+
+“**Khách hàng**” có nghĩa là cá nhân hoặc tổ chức sử dụng Dịch vụ của GHN.
+
+“**Bưu gửi**” có nghĩa là thư, gói, kiện hàng hóa được GNH chấp nhận, vận chuyển và phát hợp pháp trong hệ thống bưu cục của GHN.
+
+“**Đơn hàng**” có nghĩa là yêu cầu thực hiện Dịch vụ được Khách hàng thiết lập qua Hệ thống hoặc được viết tay dưới dạng Phiếu gửi/Phiếu yêu cầu Dịch vụ có đầy đủ thông tin về Bưu gửi.
+
+“**Dịch vụ**” có nghĩa là dịch vụ liên quan việc giao nhận Bưu gửi, bao gồm: chấp nhận, vận chuyển và phát Bưu gửi bằng các phương thức khác nhau từ địa điểm do Khách hàng chỉ định đến địa điểm của người nhận.
+
+“**Hệ thống**” có nghĩa là phần mềm ứng dụng được cài đặt trên thiết bị di động hoặc website mà GHN thiết lập cho việc sử dụng Dịch vụ của Khách hàng, bao gồm tạo, quản lý, theo dõi tiến độ của Đơn hàng; thanh toán cước Dịch vụ; kiểm soát, đối chiếu dữ liệu về Bưu gửi và cước Dịch vụ.
+
+
+# II. QUYỀN VÀ NGHĨA VỤ CỦA KHÁCH HÀNG
+
+
+## 1.Quyền của Khách hàng
+
+* Được GHN cung cấp đầy đủ thông tin liên quan đến toàn bộ quy trình cung ứng Dịch vụ.
+* Được GHN đảm bảo bí mật thông tin, an toàn đối với Bưu gửi trong toàn quá trình giao hàng theo qui định của pháp luật.
+* Được GHN giải quyết khiếu nại, được giải quyết thỏa đáng về Dịch vụ cung ứng đã sử dụng.
+* Được GHN bồi thường thiệt hại tùy theo thực tế từng trường hợp.
+## 2. Nghĩa vụ của khách hàng
+* Thực hiện việc đối soát cước phí Dịch vụ đảm bảo đúng thời hạn.
+* Không gửi Bưu gửi chưa được lưu thông trên thị trường, hàng cấm, hàng hạn chế vận chuyển/kinh doanh hoặc hàng kinh doanh có điều kiện nhưng không cung cấp được giấy phép.
+* Khách hàng có nghĩa vụ mở hàng và phối hợp với GHN trong việc đồng kiểm cũng như niêm phong hàng hóa khi gửi hàng.
+* Chịu trách nhiệm trước GHN và trước pháp luật về nội dung Bưu gửi, hóa đơn, chứng từ nguồn gốc xuất xứ của Bưu gửi và chứng từ đính kèm.
+* Chịu trách nhiệm làm việc, giải quyết với Cơ quan có thẩm quyền khi Bưu gửi tạm giữ hoặc tịch thu.
+* Cung cấp đầy đủ hóa đơn, chứng từ của Bưu gửi cho GHN khi gửi Bưu gửi.
+* GHN sẽ được miễn trừ trách nhiệm bồi thường trong trường hợp Bưu gửi bị tạm giữ hoặc tịch thu bởi cơ quan có thẩm quyền do Bưu gửi * * không có hóa đơn, chứng từ hợp pháp đính kèm.
+* Đóng gói Bưu gửi theo đúng từng quy cách, kích thước và tính chất của từng mặt hàng, đặc biệt đối với Bửu gửi là các mặt hàng dễ vỡ.
+* Cung cấp đầy đủ chỉ dẫn liên quan đến Bưu gửi; thông tin liên quan đến Người gửi, Người nhận trên Bưu gửi.
+* Bồi thường thiệt hại thực tế cho GHN và bên thứ 3 có liên quan khi thiệt hại xảy ra có nguồn gốc từ Khách hàng/Người gửi theo quy định của pháp luật.
+Chịu trách nhiệm về mọi thông tin liên quan đến Người nhận mà Khách hàng giao cho GHN. Trường hợp xảy ra sai sót về thông tin Người nhận hoặc Bưu gửi không đúng yêu cầu của Người nhận thì Khách hàng có trách nhiệm tự giải quyết với Người nhận, đồng thời Khách hàng vẫn phải thanh toán Cước phí Dịch vụ đối với Đơn hàng trên dựa trên lộ trình đã thực hiện.
+Bằng chi phí của mình, chịu trách nhiệm giải quyết các vấn đề liên quan đến
+(i) tranh chấp về quyền sở hữu Bưu gửi, nguồn gốc Bưu gửi với bên thứ ba bất kỳ; hoặc (ii) khiếu nại của Người nhận về việc hàng hóa bị lỗi, không đúng yêu cầu.
